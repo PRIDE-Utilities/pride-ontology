@@ -40,20 +40,20 @@
         <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/pride/releases/2026-06-19/pride.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/chmo.owl"/>
         <owl:imports rdf:resource="http://www.ebi.ac.uk/efo/efo.owl"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000000"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000001"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000002"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000003"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000004"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000005"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000006"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000017"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000278"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000391"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000457"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000470"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000484"/>
-        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE:0000547"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000000"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000001"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000002"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000003"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000004"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000005"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000006"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000017"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000278"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000391"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000457"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000470"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000484"/>
+        <obo:IAO_0000700 rdf:resource="http://purl.obolibrary.org/obo/PRIDE_0000547"/>
         <dce:creator>Deepti Jaiswal Kundu</dce:creator>
         <dce:creator>Nithu Sara John</dce:creator>
         <dce:creator>Yasset Perez-Riverol</dce:creator>
